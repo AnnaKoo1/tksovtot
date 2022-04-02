@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+/WebAppTest11/WebAppTest11/Web.config
+/WebAppTest11/WebAppTest11/Views/Web.config
+
+
 # User-specific files
 *.rsuser
 *.suo
