@@ -1,1 +1,2 @@
 # tksovtot
+Tietokantasovelluksen toteuttaminen
